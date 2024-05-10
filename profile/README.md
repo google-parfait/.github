@@ -41,7 +41,7 @@ architectures that run on Google Cloud, please refer to
 and their associated
 [GitHub repository](https://github.com/GoogleCloudPlatform/federated-learning).
 
-# More about us
+## More about us
 
 We are a team of researchers and engineers at Google that develop foundational
 technologies that enable strong privacy guarantees for AI and analytics systems,
